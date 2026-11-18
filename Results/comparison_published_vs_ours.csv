@@ -1,0 +1,4 @@
+System,MMLU-Med,MedQA-US,MedMCQA,PubMedQA*,BioASQ-Y/N,Average
+MedRAG (published): GPT-3.5 + MedCorp 65.3M + RRF-4,75.48,66.61,58.04,67.4,90.29,71.57
+Ours (baseline config A): Qwen2.5-7B + 43k corpus + MedCPT,82.14,72.73,50.46,69.23,81.25,71.16
+Difference (ours - theirs),6.66,6.12,-7.58,1.83,-9.04,-0.41
